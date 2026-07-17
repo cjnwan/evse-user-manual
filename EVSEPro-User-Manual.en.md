@@ -93,7 +93,7 @@ On Home tap "Add a device" (empty state) or "+" (top-right):
 6. **All set** — shows the device summary; if signed in with Wi-Fi configured, an activation line runs "Your charger is coming online…" → "Your charger is online". Tap "Open <device name>" to jump straight in, or "Add another device".
 
 ![Add-a-charger flow](images/pairing.en.svg)
-<p align="center"><img src="images/screenshots/pairing_start_en.jpg" width="200" alt="Choose a method"> <img src="images/screenshots/scanning.jpg" width="200" alt="Looking for devices"> <img src="images/screenshots/pairing_done.jpg" width="200" alt="All set"><br><sub>Choose a method · Looking for devices (real device) · All set (real device) · real-device shots show Chinese UI</sub></p>
+<p align="center"><img src="images/screenshots/pairing_start_en.jpg" width="200" alt="Choose a method"> <img src="images/screenshots/scanning_en.jpg" width="200" alt="Looking for devices"> <img src="images/screenshots/pairing_done_en.jpg" width="200" alt="All set"><br><sub>Choose a method · Looking for devices (real device) · All set (real device)</sub></p>
 
 
 > If pairing reports the charger "is already paired to an owner" or asks you to forget an old pairing in iOS Settings, a previous binding is still on the charger — see Help center "Pairing & Binding".
@@ -312,7 +312,7 @@ Entry: device page → Settings → "Share with others".
 
 **Online share**: the recipient opens "Me → Device sharing" to show their invite code → you tap "Scan invite code" → pick a validity → done ("Charger shared"). Up to 10 active online shares per device; "Revoke" any member from the list.
 
-<p align="center"><img src="images/screenshots/share_manage.jpg" width="300" alt="Share management"><br><sub>Share management · members (real device, Chinese UI)</sub></p>
+<p align="center"><img src="images/screenshots/share_manage_en.jpg" width="300" alt="Share management"><br><sub>Share management · members (real device)</sub></p>
 
 **Nearby share code** 🔵: next to the charger with Bluetooth connected, tap "Nearby share code" → pick a validity → a QR code is generated for the recipient to scan or paste. It never touches the cloud, doesn't appear in the member list and can't be revoked individually.
 
@@ -355,7 +355,7 @@ Entry: bell icon top-right on Home (red dot = unread). 🔑 Sign-in required.
 - Tap to mark one read; "Mark all read"; "ALL / YESTERDAY / OLDER" time filter; pull to refresh fetches cloud-buffered messages;
 - The "Push notifications" banner enables system push in one tap.
 
-<p align="center"><img src="images/screenshots/messages.jpg" width="300" alt="Message center"><br><sub>Message center (real device, Chinese UI)</sub></p>
+<p align="center"><img src="images/screenshots/messages_en.jpg" width="300" alt="Message center"><br><sub>Message center (real device)</sub></p>
 
 > Messages can't be deleted, and tapping one doesn't navigate to the device. The 10 alarm types are explained in Help center "Alarms".
 
