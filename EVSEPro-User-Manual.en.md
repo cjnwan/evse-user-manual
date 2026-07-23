@@ -296,6 +296,8 @@ Device page → Status tab → "Energy" segment. 🔧 Only on models with dynami
 
 Animated flow between solar / grid / home / charger nodes. The charger node shows live power; grid and solar current readings require a CT clamp and load balancing enabled — otherwise "—".
 
+<p align="center"><img src="images/screenshots/energy_flow_en.jpg" width="300" alt="Live energy flow"><br><sub>Energy segment · live energy flow</sub></p>
+
 ### 8.2 Load balancing configuration 👤 🔵 (owner only, Bluetooth-only)
 
 <details><summary><b>Show configuration details</b></summary>
@@ -306,6 +308,8 @@ Animated flow between solar / grid / home / charger nodes. The charger node show
 - "Charging current" shows the live value plus the active constraint ("Limited by household load", "Tracking solar surplus", "At configured limit", …).
 
 </details>
+
+<p align="center"><img src="images/screenshots/energy_dlb_en.jpg" width="380" alt="Current allocation card"><br><sub>Current allocation card</sub></p>
 
 Away from the charger these controls fail immediately with "Couldn't reach the charger over Bluetooth. Move closer and try again."
 
